@@ -1,8 +1,8 @@
 <h1 align="center">Salut 👋, je suis Yonli Fidèle</h1>
-<h3 align="center">Passionné par la data, l'IA et la vulgarisation technologique</h3>
+<h3 align="center">Passionné par la data, l'IA et la vulgarisation technologique | Éternel apprenant</h3>
 
 🌍 **À propos de moi :**  
-- 🔭 Je travaille sur des projets en **Machine Learning, Deep Learning, Vision par Ordinateur & Big Data**  
+- 🌟 Je travaille sur des projets en **Machine Learning, Deep Learning, Vision par Ordinateur & Big Data**  
 - 📊 Expérience en **Data Engineering, BI, Analyse de données & Statistiques avancées**  
 - ☁️ J’utilise des technologies **Cloud, NoSQL, SQL & outils de visualisation avancés**  
 - 🌱 J’explore des frameworks comme **Apache Spark, Kafka, Docker, MLOps & Dashboards interactifs**  
@@ -12,6 +12,7 @@
 ---
 
 ### 🚀 **Technologies & Outils :**  
+
 💾 **Bases de données & SGBD**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,12 +44,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-☁️ **Big Data & Cloud**  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-800080?style=for-the-badge&logo=spacy&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FFA500?style=for-the-badge&logo=transformers&logoColor=white)
 
 ---
 
@@ -59,7 +56,6 @@
 
 ---
 
-### 📫 **Me contacter :**  
+### 💌 **Me contacter :**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonlifidele)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonlifidelis2@@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonlifidelis2@gmail.com)
