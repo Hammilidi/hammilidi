@@ -8,6 +8,7 @@
 - 🌱 J’explore des frameworks comme **Apache Spark, Kafka, Docker, MLOps & Dashboards interactifs**  
 - 💡 Membre actif de **DigiScia & 10000codeurs**, où je vulgarise l'IA et la data  
 - 📌 Toujours à la recherche de **projets innovants et impactants**  
+- 🎓 **Sois un éternel Apprenant**  
 
 ---
 
@@ -24,6 +25,8 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![MemGraph](https://img.shields.io/badge/MemGraph-FF5733?style=for-the-badge&logo=graphdatabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 📊 **Business Intelligence & Data Viz**  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
