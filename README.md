@@ -59,14 +59,7 @@
 
 ---
 
-### 📈 **Mes Stats GitHub :**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo-github&show_icons=true&theme=radical" alt="Statistiques GitHub de Yonli Fidèle"/>
-</p>
-
----
-
 ### 📫 **Me contacter :**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonli-fidele)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yonlifidele)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.yonlifidelis2@@gmail.com)
 
