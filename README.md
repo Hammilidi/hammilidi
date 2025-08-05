@@ -1,14 +1,26 @@
 <h1 align="center">Salut 👋, je suis Yonli Fidèle</h1>
 <h3 align="center">Passionné par la data, l'IA et la vulgarisation technologique | Éternel apprenant</h3>
 
-🌍 **À propos de moi :**  
-- 🌟 Je travaille sur des projets en **Machine Learning, Deep Learning, Vision par Ordinateur & Big Data**  
-- 📊 Expérience en **Data Engineering, BI, Analyse de données & Statistiques avancées**  
-- ☁️ J’utilise des technologies **Cloud, NoSQL, SQL & outils de visualisation avancés**  
-- 🌱 J’explore des frameworks comme **Apache Spark, Kafka, Docker, MLOps & Dashboards interactifs**  
-- 💡 Membre actif de **DigiScia & 10000codeurs**, où je vulgarise l'IA et la data  
-- 📌 Toujours à la recherche de **projets innovants et impactants**  
-- 🎓 **Sois un éternel Apprenant**  
+---
+
+## 🌍 **À propos de moi**
+
+🎯 Passionné par l’**intelligence artificielle** et l’**analyse de données**, je conçois des solutions robustes mêlant **Data Engineering**, **Machine Learning**, **Deep Learning** et **Vision par Ordinateur**, avec un souci constant de performance, de scalabilité et d’impact.
+
+💼 Je maîtrise toute la chaîne de valeur de la donnée :
+
+* Ingestion & traitement avec **Apache Spark**, **Kafka**, **Airflow**, **SQL/NoSQL**
+* Structuration & gouvernance avec une approche **DataOps / MLOps**
+* Analyse, visualisation et storytelling avec **Power BI**, **Tableau**, **Plotly/Dash**
+* Déploiement d’API et d’applications IA avec **FastAPI**, **Docker**, **CI/CD**, **Cloud (Azure, GCP)**
+
+🌐 En parallèle, j’explore activement la cybersécurité et le développement web et avec une sensibilité particulière pour les **interfaces front-end élégantes et interactives**.
+
+💡 Membre actif de **DigiScia** & **10.000 Codeurs**, j'œuvre à la **démocratisation de l’IA et des compétences data** en Afrique, via la formation, la vulgarisation et l’accompagnement de projets à fort impact.
+
+🚀 Curieux, méthodique et orienté solutions, je cherche constamment à apprendre, transmettre et co-construire des projets **innovants, responsables et porteurs de sens**.
+
+🎓 *"Sois un éternel apprenant."*
 
 ---
 
